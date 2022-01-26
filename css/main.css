@@ -29,3 +29,9 @@ body.login {
   border-left-width: 6px;
   border-left-color: #36b9cc;
 }
+
+/*No he podido jugar como me hubiese gustado con las clases que da boostrap para establecer exactament eel tamaño que queria
+así que he tenido que crear esta clase para establecer el tamaño deseado*/
+.tarjeta {
+  width: 95%;
+}
